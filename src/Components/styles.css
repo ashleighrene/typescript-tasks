@@ -29,13 +29,13 @@
 	right: 0px;
 	border: none;
 	font-size: 15px;
-	background-color: rgb(204, 193, 202);
+	background-color: rgb(131, 133, 185);
 	color: black;
 	transition: 0.2s all;
 	box-shadow: 0 0 10px black;
 }
 .input_submit:hover {
-	background-color: rgb(201, 174, 196);
+	background-color: rgb(131, 133, 185);
 }
 .input_submit:active {
 	transform: scale(0.8);
@@ -64,11 +64,11 @@
 }
 
 .dragcomplete {
-	background-color: rgb(125, 111, 140);
+	background-color: rgb(127, 123, 145);
 }
 
 .remove {
-	background-color: rgb(125, 111, 140);
+	background-color: rgb(127, 123, 145);
 }
 
 .todos__heading {
